@@ -1,0 +1,39 @@
+@import "../../vars.css";
+
+.navbar {
+    color: var(--color-text) !important;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 61px;
+    z-index: 2;
+    margin: 0 10%;
+}
+
+.title {
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    text-decoration: none;
+    color: var(--color-text) !important;
+}
+
+.menu {
+    display: flex !important;
+
+}
+
+.navbar :global(.navbar-nav) {
+    display: flex !important;
+    gap: 47px !important;
+    list-style: none;
+}
+
+.navbar :global(.navbar-nav .nav-link) {
+    font-size: 25px !important;
+    color: var(--color-text) !important;
+    text-decoration: none;
+}
+
+/* Media Queries */
+
