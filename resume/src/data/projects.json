@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Mysa",
+        "imageSrc": "/projects/Mysa.png",
+        "description": "An Aesthetic and Beauty website for a recent client",
+        "skills": ["Python", "Django", "JavaScript"],
+        "demo": "https://mysa2-8764efb7b84d.herokuapp.com/",
+        "source": "https://github.com/meSSSy/mysa2"
+    },
+    
+    {
+        "title": "My Journey",
+        "imageSrc": "/projects/My-Journey.png",
+        "description": "A personal life blog",
+        "skills": ["Python", "Django", "JavaScript"],
+        "demo": "https://my-journey-1a9f4984601b.herokuapp.com/",
+        "source": "https://github.com/meSSSy/my_journey2"
+    }
+]

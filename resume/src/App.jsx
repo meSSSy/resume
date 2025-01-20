@@ -5,6 +5,7 @@ import { Navbar } from './components/navbar/navbar';
 import { Hero } from './components/hero/hero';
 import { About } from './components/about/about';
 import { Experience } from './components/experience/experience'
+import { Projects } from './components/projects/projects'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
@@ -18,6 +19,7 @@ function App() {
       <Hero />
       <About /> 
       <Experience />
+      <Projects />
     </div>
   )
 }
