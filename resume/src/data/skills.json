@@ -1,34 +1,34 @@
 [
     {
         "title": "HTML",
-        "imgSrc": "assets/skills/html.png"
+        "imgSrc": "assets/skills/htmlbg.png"
     },
     {
         "title": "CSS",
-        "imgSrc": "assets/skills/css.png"
+        "imgSrc": "assets/skills/cssbg.png"
     },
     {
         "title": "JavaScript",
-        "imgSrc": "assets/skills/javascript.jpeg"
+        "imgSrc": "assets/skills/javascriptbg.png"
     },
     {
         "title": "Django",
-        "imgSrc": "assets/skills/django.png"
+        "imgSrc": "assets/skills/djangobg.png"
     },
     {
         "title": "Python",
-        "imgSrc": "assets/skills/python.png"
+        "imgSrc": "assets/skills/pythonbg.png"
     },
     {
         "title": "React",
-        "imgSrc": "assets/skills/react.png"
+        "imgSrc": "assets/skills/reactbg.png"
     },
     {
         "title": "Bootstrap",
-        "imgSrc": "assets/skills/bootstrap.jpeg"
+        "imgSrc": "assets/skills/bootstrapbg.png"
     },
     {
         "title": "PostreSQL",
-        "imgSrc": "assets/skills/PostgreSQL.jpeg"
+        "imgSrc": "assets/skills/postgresqlbg.png"
     }
 ]

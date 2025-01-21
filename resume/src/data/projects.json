@@ -2,7 +2,7 @@
     {
         "title": "Mysa",
         "imageSrc": "/projects/Mysa.png",
-        "description": "An Aesthetic and Beauty website for a recent client",
+        "description": "An Aesthetic and Beauty website for a recent client. User can view treatments and price list. User can also contact the owner via the form or make a booking",
         "skills": ["Python", "Django", "JavaScript"],
         "demo": "https://mysa2-8764efb7b84d.herokuapp.com/",
         "source": "https://github.com/meSSSy/mysa2"

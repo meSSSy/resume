@@ -5,7 +5,7 @@
         "startDate": "May 2024",
         "endDate": "October 2024",
         "experiences": ["Software Developer course targeting HTML, CSS, JavaScript, Python, Django, API's, PostgreSQL and Bootstrap"],
-        "imageSrc": "assets/skills/codeinstitute.png"
+        "imageSrc": "assets/skills/codeinstitutebg.png"
     },
     {
         "role": "Site Manager",
@@ -13,7 +13,7 @@
         "startDate": "November 2019",
         "endDate": "April 2024",
         "experiences": ["Coordinated daily operations to achieve top rankings (#1 DSP in the UK on two occasions)."],
-        "imageSrc": "assets/skills/amazon.png"
+        "imageSrc": "assets/skills/amazonbg.png"
     },
     {
         "role": "Warehouse Manager",
@@ -21,7 +21,7 @@
         "startDate": "July 2011",
         "endDate": "October 2018",
         "experiences": ["Led a team of over 200 employees to achieve daily and peak-season targets exceeding 200,000 units. Oversaw P&L responsibilities, safety compliance, and customer relationship management"],
-        "imageSrc": "assets/skills/gist.jpeg"
+        "imageSrc": "assets/skills/gistbg.png"
     }
     
 ]
