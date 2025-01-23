@@ -56,13 +56,15 @@
     list-style: none;
     gap: 26px;
     padding: 0;
+    text-align: center;
 }
 
 @media (max-width: 768px) {
     .links {
-        align-items: flex-start;
+        align-items: center;
         width: 100%;
         max-width: 100%;
+
     }
 }
 
