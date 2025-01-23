@@ -129,11 +129,25 @@
     }
 
     .skills {
-        margin-right: 100px;
+        margin-right: 140px;
     }
 
     .historyItem {
         margin-top: 50px;
+    }
+
+    .historyItemDetails h3 {
+        font-size: 20px;
+        font-weight: 300;
+    }
+    
+    .historyItemDetails p {
+        font-size: 15px;
+        font-weight: 150;
+    }
+
+    .history {
+        margin-right: 100px;
     }
 }
 
@@ -164,6 +178,20 @@
     .historyItem {
         margin-top: 50px;
     }
+
+    .historyItemDetails h3 {
+        font-size: 20px;
+        font-weight: 300;
+    }
+    
+    .historyItemDetails p {
+        font-size: 15px;
+        font-weight: 150;
+    }
+
+    .history {
+        margin-right: 120px;
+    }
 }
 
 @media screen and (min-width: 376px) and (max-width: 425px) {
@@ -192,6 +220,20 @@
 
     .historyItem {
         margin-top: 50px;
+    }
+
+    .historyItemDetails h3 {
+        font-size: 20px;
+        font-weight: 300;
+    }
+    
+    .historyItemDetails p {
+        font-size: 15px;
+        font-weight: 150;
+    }
+
+    .history {
+        margin-right: 100px;
     }
 }
 
@@ -248,5 +290,9 @@
 
     .skills {
         margin-right: 60px;
+    }
+    .history {
+        width: 100%;
+        margin-left: 100px;
     }
 }
